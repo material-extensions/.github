@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/logo.png" alt="logo" width="200">
+    <img src="https://raw.githubusercontent.com/material-extensions/.github/main/logo.png" alt="logo" width="200">
   <br><br>
   Material Extensions Organization
   <br>
