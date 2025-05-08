@@ -19,6 +19,6 @@ We welcome contributions from the open-source community. If you are interested i
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to reach out to us. You can find our contact information on our [website](https://pkief.com).
+If you have any questions, suggestions, or feedback, please feel free to reach out to us. You can contact us either by opening a new issue in one of our repositories or by writing an email to material-icons-extensions@googlegroups.com.
 
 Thank you for your interest in the **Material Extensions** organization!
